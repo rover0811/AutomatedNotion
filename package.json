@@ -1,0 +1,11 @@
+{
+  "name": "automatednotion",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@notionhq/client": "^2.2.3"
+  }
+}
+
